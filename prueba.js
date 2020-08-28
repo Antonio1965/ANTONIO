@@ -1,0 +1,1 @@
+console.log(<%= (typeof errors != 'undefined' && errors.name) ? errors.name.msg : '' %></small>)
